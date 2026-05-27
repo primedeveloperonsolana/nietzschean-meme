@@ -1,7 +1,7 @@
 export const TOKEN_CONFIG = {
   name: "nietzschean",
   ticker: "nietzschean",
-  contractAddress: "Contract_Address",
+  contractAddress: process.env.NEXT_PUBLIC_CONTRACT_ADDRESS || "Contract_Address",
   pumpFunUrl: (ca: string) => `https://pump.fun/coin/${ca}`,
   jupiterUrl: (ca: string) => `https://jupiter.swap/sol-${ca}`,
   dexscreenerUrl: (ca: string) => `https://dexscreener.com/solana/${ca}`,
