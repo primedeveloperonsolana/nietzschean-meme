@@ -5,7 +5,7 @@ export const TOKEN_CONFIG = {
   pumpFunUrl: (ca: string) => `https://pump.fun/coin/${ca}`,
   jupiterUrl: (ca: string) => `https://jupiter.swap/sol-${ca}`,
   dexscreenerUrl: (ca: string) => `https://dexscreener.com/solana/${ca}`,
-  twitterUrl: "https://x.com/nietzscheanfun",
+  twitterUrl: "https://x.com/Nietchua",
 } as const;
 
 export const TREASURY_WALLET = "BnkMZbR9YpeL7TQqmWWvzzVm1xAN9J81zRkS5aJgdoC8";
