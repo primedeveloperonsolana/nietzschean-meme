@@ -69,10 +69,10 @@ export function Hero() {
           ref={subtitleRef}
           className="text-base sm:text-lg md:text-xl text-white/70 max-w-2xl mx-auto mb-10 leading-relaxed"
         >
-          Enter the abyss where Nietzschean philosophy meets meme culture.
+          Enter the abyss where Nietchua philosophy meets meme culture.
           Transfigure yourself. Embrace the eternal recurrence.
           <br />
-          Become the Übermensch.
+          Become the Überdog.
         </p>
 
         <div
