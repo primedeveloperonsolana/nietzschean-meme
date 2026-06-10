@@ -62,9 +62,7 @@ export function Hero() {
           ref={titleRef}
           className="font-playfair text-5xl sm:text-7xl md:text-8xl lg:text-9xl font-bold text-white leading-[0.95] mb-8"
         >
-          nietzschean
-          <br />
-          <span className="text-white/50">(anything)</span>
+          Nietchua
         </h1>
 
         <p

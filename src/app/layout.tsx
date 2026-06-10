@@ -16,17 +16,17 @@ const playfair = Playfair_Display({
 });
 
 export const metadata: Metadata = {
-  title: "nietzschean | The Will to Power on Solana",
+  title: "Nietchua | The Will to Power on Solana",
   description:
     "A memecoin portal into the abyss of Nietzschean philosophy. Become the Übermensch. Embrace the Eternal Recurrence. Will to Power on Solana.",
   openGraph: {
-    title: "nietzschean | The Will to Power",
+    title: "Nietchua | The Will to Power",
     description: "A memecoin portal into Nietzschean philosophy",
     type: "website",
   },
   twitter: {
     card: "summary_large_image",
-    title: "nietzschean | The Will to Power",
+    title: "Nietchua | The Will to Power",
     description: "A memecoin portal into Nietzschean philosophy",
   },
 };

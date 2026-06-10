@@ -6,7 +6,7 @@ import { TOKEN_CONFIG } from "@/config/token";
 import { ClientWalletButton } from "./ClientWalletButton";
 
 const navLinks = [
-  { label: "nietzschean", href: "#" },
+  { label: "Nietchua", href: "#" },
   { label: "Transfigure", href: "#transfigurator" },
   { label: "Meme Culture", href: "#meme-culture" },
   { label: "Influence", href: "#influence" },

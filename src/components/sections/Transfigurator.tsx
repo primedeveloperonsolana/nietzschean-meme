@@ -86,7 +86,7 @@ export function Transfigurator() {
     if (!previewImage) return;
     const link = document.createElement("a");
     link.href = previewImage;
-    link.download = `nietzschean-${Date.now()}.png`;
+    link.download = `Nietchua-${Date.now()}.png`;
     link.click();
   };
 
@@ -100,7 +100,7 @@ export function Transfigurator() {
           <p className="text-white/60 max-w-xl mx-auto">
             Upload any image. Preview your Nietzschean transfiguration for free.
             Unlock & download the full masterpiece for 0.01 SOL — all proceeds go
-            directly to <span className="text-white font-semibold">$nietzschean</span> token buybacks.
+            directly to <span className="text-white font-semibold">$Nietchua</span> token buybacks.
           </p>
         </div>
 
@@ -267,7 +267,7 @@ export function Transfigurator() {
                     </button>
                     <p className="text-xs text-center text-white/30">
                       All proceeds go directly to{" "}
-                      <span className="text-white/50 font-semibold">$nietzschean</span>{" "}
+                      <span className="text-white/50 font-semibold">$Nietchua</span>{" "}
                       token buybacks. No dev allocation. Pure community fuel.
                     </p>
                   </>
