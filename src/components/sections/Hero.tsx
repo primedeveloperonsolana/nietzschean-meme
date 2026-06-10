@@ -52,7 +52,7 @@ export function Hero() {
       {/* Background image */}
       <div
         className="absolute inset-0 bg-cover bg-center bg-no-repeat"
-        style={{ backgroundImage: "url('/back.jpg')" }}
+        style={{ backgroundImage: "url('/pfp.png')" }}
       />
       {/* Dark overlay for readability */}
       <div className="absolute inset-0 bg-black/70" />
